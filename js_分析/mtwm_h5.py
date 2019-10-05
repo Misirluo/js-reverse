@@ -1,12 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on 2019/3/29 13:02
-@contact: luozw@yujialong.com
-@file: python.py
-@author: yjl
 
-"""
 
 import execjs
 import requests
